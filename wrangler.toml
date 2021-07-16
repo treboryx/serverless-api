@@ -1,0 +1,7 @@
+name = "serverless-api"
+type = "webpack"
+account_id = "0464c1b7c34fc3d911a9dc5bc6f13be7"
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
